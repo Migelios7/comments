@@ -1,0 +1,3 @@
+<?php
+$MESS ['MMS_COMMENTS_NAME'] = "";
+$MESS ['MMS_COMMENTS_DESCRIPTION'] = "";
